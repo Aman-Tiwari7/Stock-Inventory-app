@@ -8,6 +8,6 @@
   },
   "type": "module",
   "scripts": {
-    "start": "nodemon app.js"
+    "start": "nodem app.js"
   }
 }
